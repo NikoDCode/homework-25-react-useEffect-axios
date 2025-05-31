@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  padding: 8px;
+  margin: 5px 0;
+  background: #f4f4f4;
+  border-radius: 4px;
+}
